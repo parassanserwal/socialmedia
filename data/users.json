@@ -1,0 +1,13 @@
+[
+  {
+    "id": "a48fc2db-4627-4fce-a54d-bd8eeab2ea9c",
+    "name": "Paras",
+    "email": "paras@gmail.com",
+    "mobile": "123456789",
+    "password": "$2b$10$fd7MlRSmTvvQB86zgMCtp.NPUSuARmvT6oGFrzqEiZCXic.R58Veu",
+    "role": "registered",
+    "isPublic": true,
+    "followers": [],
+    "following": []
+  }
+]
